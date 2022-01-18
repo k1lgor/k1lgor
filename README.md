@@ -1,3 +1,4 @@
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 ### Hi there 👋 My name is Plamen Ivanov ! 🖖
 
 
@@ -5,8 +6,6 @@
   - gaining as much knowledge as possible
 - 🌱 I’m currently learning ...
   - Python Advanced at SoftUni
-<!-- 👯 I’m looking to collaborate on ...-->
-<!-- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
   - https://www.linkedin.com/in/plamen-ivanov-33a851226/
