@@ -8,7 +8,7 @@
 ## About Me 
 
 - I am enthusiast, self-motivated and ambitious 🧑
-- I love ⚽ and playing 🎮```
+- I love ⚽ and playing 🎮
 - Currently a Python Dev Student <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /> 
 - Interest in: Data Analytics 📈📉📊, ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go), Pen Testing & Cyber Sec 👨‍💻
   
