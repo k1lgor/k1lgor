@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 ### Hi there 👋 My name is Plamen Ivanov ! 🖖
 
 
@@ -12,3 +11,4 @@
   - plamen_iv@protonmail.com
 - ⚡ Fun fact: ...
 
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
