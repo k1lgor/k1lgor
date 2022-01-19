@@ -21,3 +21,6 @@
   ![PowerShell](https://img.shields.io/badge/-PowerShell%20-333333?style=flat&logo=powershell)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-PyCharm%20-333333?style=flat&logo=pycharm)
+
+  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=k1lgor.k1lgor)
