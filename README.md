@@ -4,7 +4,6 @@
 
 ## My name is **Plamen**
 ### *Python Student @ SoftUni*
-### *Software Development Trainee @ MentorMate*
 
 <p align="left">
 <a href="https://www.linkedin.com/in/plamen-ivanov-33a851226/"><img src="https://img.shields.io/badge/-Plamen%20Ivanov-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -22,6 +21,7 @@
   
 ## Tech Stack and Tools I use
   
+  ### More familiar with
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
   ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -32,6 +32,7 @@
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ### Basic knowledge of
   ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
