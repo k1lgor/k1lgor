@@ -46,6 +46,7 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k1lgor&theme=dracula)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=k1lgor&theme=dracula)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k1lgor&theme=dracula)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k1lgor&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=k1lgor.k1lgor)
