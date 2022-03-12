@@ -40,6 +40,12 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1lgor&theme=dracula)  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k1lgor&theme=dracula)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k1lgor&theme=dracula)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=k1lgor&theme=dracula)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k1lgor&theme=dracula)
 
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=k1lgor.k1lgor)
