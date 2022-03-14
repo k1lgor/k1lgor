@@ -6,8 +6,8 @@
 ### *Python Student @ SoftUni*
 
 <p align="left">
-<a href="https://www.linkedin.com/in/plamen-ivanov-33a851226/"><img src="https://img.shields.io/badge/-Plamen%20Ivanov-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://discord.com/users/325912532143570944"><img src="https://img.shields.io/badge/-BASH%230137-333333?style=flat-square&logo=discord"/></a>
+<a href="https://www.linkedin.com/in/plamen-ivanov-33a851226/"><img src="https://img.shields.io/badge/Plamen Ivanov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://discord.com/users/325912532143570944"><img src="https://img.shields.io/badge/BASH%230137-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 
 ## About Me 
