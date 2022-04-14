@@ -7,7 +7,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/plamen-ivanov-33a851226/"><img src="https://img.shields.io/badge/Plamen Ivanov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://discord.com/users/325912532143570944"><img src="https://img.shields.io/badge/BASH%230137-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discord.com/users/325912532143570944"><img src="https://img.shields.io/badge/PLAMEN%230137-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 
 ## About Me 
@@ -17,7 +17,7 @@
 - <img src="https://badges.aleen42.com/src/steam.svg" alt="steam"> Playing video games
 - 👨🏻‍💻 Ethical Hacking & 🛡 Cyber Security are my favorite hobbies
 - 🐧 Linux fan. I use <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="20px" height="20px"> btw 
-- Interest in 📈📉📊 Data Analytics, <img src="https://badges.aleen42.com/src/golang.svg" alt="golang">
+- Interest in 📈📉📊 Data Science, <img src="https://badges.aleen42.com/src/golang.svg" alt="golang">
   
 ## Tech Stack and Tools I use
   
