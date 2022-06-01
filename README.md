@@ -3,6 +3,7 @@
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
 
 ## My name is **Plamen**
+### *Junior DevOps Developer @ Strypes*
 ### *Python Student @ SoftUni*
 
 <p align="left">
