@@ -43,6 +43,7 @@
   ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1lgor&theme=dracula)  
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k1lgor&theme=dracula)
