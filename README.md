@@ -4,7 +4,6 @@
 
 ## My name is **Plamen**
 ### *Junior DevOps Developer @ Strypes*
-### *Python Student @ SoftUni*
 
 <p align="left">
 <a href="https://www.linkedin.com/in/plamen-ivanov-33a851226/" target="_blank"><img src="https://img.shields.io/badge/Plamen Ivanov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
