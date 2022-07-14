@@ -1,24 +1,29 @@
-# Hi there 👋 
+# *Junior DevOps Developer @ [Strypes](https://strypes.eu/)*
+
+
+
+## About Me 
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
 
-## My name is **Plamen**
-### *Junior DevOps Developer @ Strypes*
+- 🎓 I am an ambitious person, self-motivated and maybe workaholic
+- 🐧 Linux and shell scripting enthusiast
+- 👨🏻‍💻 Ethical Hacking & 🛡 Cyber Security are my favorite hobbies
+- Have interests in 📈📉📊 Data Science, <img src="https://badges.aleen42.com/src/golang.svg" alt="golang">, 💻 Web Dev & 🤖 Linux SysAdmin
+- ⚽ Football is my sport. <img src="https://badges.aleen42.com/src/manchester_united.svg" alt="manutd"> is my team
+- <img src="https://badges.aleen42.com/src/steam.svg" alt="steam"> Playing video games
+-  I use <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="20px" height="20px"> btw 
+
+## Contacts
 
 <p align="left">
 <a href="https://www.linkedin.com/in/plamen-ivanov-33a851226/" target="_blank"><img src="https://img.shields.io/badge/Plamen Ivanov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://discord.com/users/325912532143570944" target="_blank"><img src="https://img.shields.io/badge/PLAMEN-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://plamens-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My Portfolio-4d1c7c?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:plamen_iv@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/plamen_iv@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 
 
-## About Me 
 
-- 🎓 An ambitious person, self-motivated and maybe workaholic
-- ⚽ Football is my sport. <img src="https://badges.aleen42.com/src/manchester_united.svg" alt="manutd"> is my team
-- <img src="https://badges.aleen42.com/src/steam.svg" alt="steam"> Playing video games
-- 👨🏻‍💻 Ethical Hacking & 🛡 Cyber Security are my favorite hobbies
-- 🐧 Linux fan. I use <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="20px" height="20px"> btw 
-- Interest in 📈📉📊 Data Science, <img src="https://badges.aleen42.com/src/golang.svg" alt="golang">, Web Dev & Linux SysAdmin
   
 ## Tech Stack and Tools I use
   
