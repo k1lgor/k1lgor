@@ -49,6 +49,7 @@
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
   
+  ![github-user-contribution](https://user-images.githubusercontent.com/65338982/179604372-10effa32-5734-4f54-893c-702e2120d6f4.svg#gh-dark-mode-only)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1lgor&theme=dracula)  
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k1lgor&theme=dracula)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k1lgor&theme=dracula)
@@ -56,6 +57,7 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k1lgor&theme=dracula)
   [![trophy](https://github-profile-trophy.vercel.app/?username=k1lgor&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k1lgor&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ 
 
   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=k1lgor.k1lgor)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=k1lgor.k1lgor)
