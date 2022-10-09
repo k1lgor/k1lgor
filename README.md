@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Hello%20World!&animation=blinking&type=waving&fontAlign=75&fontAlignY=30&color=timeAuto)
 
-# *Junior DevOps Developer @ [Strypes](https://strypes.eu/)*
+# *Junior DevOps Engineer @ [Strypes](https://strypes.eu/)*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=58F736&background=FFEFEC00&vCenter=true&lines=About+me)](https://git.io/typing-svg)
 
@@ -13,8 +13,6 @@
 > 👨🏻‍💻 Ethical Hacking & 🛡 Cyber Security are my favorite hobbies
 
 > Have interests in 📈📉📊 Data Science, <img src="https://badges.aleen42.com/src/golang.svg" alt="golang">, 💻 Web Dev & 🤖 Linux SysAdmin
-
-> ⚽ Football is my sport. <img src="https://badges.aleen42.com/src/manchester_united.svg" alt="manutd"> is my team
 
 > <img src="https://badges.aleen42.com/src/steam.svg" alt="steam"> Playing video games
 
