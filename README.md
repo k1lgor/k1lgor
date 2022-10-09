@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=58F736&background=FFEFEC00&vCenter=true&lines=About+me)](https://git.io/typing-svg)
 
-<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />
+[//]: <> (<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />)
+<img align="right" src="https://api.daily.dev/devcards/c49a9b883d1245b1b61ead54015bcf1e.png?r=u70" width="400" alt="Plamen Ivanov's Dev Card"/>
 
 > 🎓 I am an ambitious person, self-motivated and maybe workaholic
 
@@ -16,7 +17,7 @@
 
 > <img src="https://badges.aleen42.com/src/steam.svg" alt="steam"> Playing video games
 
->  I use <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="20px" height="20px"> btw 
+> I use <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="20px" height="20px"> btw 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=2435F7&background=FFEFEC00&vCenter=true&lines=Contacts)](https://git.io/typing-svg)
 
