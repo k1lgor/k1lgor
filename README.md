@@ -13,9 +13,9 @@
 
 > 👨🏻‍💻 Ethical Hacking & 🛡 Cyber Security are my favorite hobbies
 
-> Have interests in 📈📉📊 Data Science, <img src="https://badges.aleen42.com/src/golang.svg" alt="golang">, 💻 Web Dev & 🤖 Linux SysAdmin
+> Have interests in 📈📉📊 Data Science, <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang">, <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="rust">, 💻 Web Dev & 🤖 Linux SysAdmin
 
-> <img src="https://badges.aleen42.com/src/steam.svg" alt="steam"> Playing video games
+> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam"> Playing video games
 
 > I use <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="20px" height="20px"> btw 
 
@@ -34,8 +34,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
@@ -46,6 +47,13 @@
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=57f542&background=FFEFEC00&vCenter=true&lines=Virtualization)](https://git.io/typing-svg)
+
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=24F7E0&background=FFEFEC00&vCenter=true&lines=Programming%2FScripting%2FMarkdown+languages)](https://git.io/typing-svg)
 
