@@ -71,6 +71,11 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=ff1bbc&background=FFEFEC00&vCenter=true&lines=CI/CD)](https://git.io/typing-svg)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=9427F7&background=FFEFEC00&vCenter=true&lines=PaaS)](https://git.io/typing-svg)
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
