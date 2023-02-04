@@ -88,3 +88,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k1lgor&theme=dracula)
 [![trophy](https://github-profile-trophy.vercel.app/?username=k1lgor&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k1lgor&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+<a href="https://www.buymeacoffee.com/k1lgor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
