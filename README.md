@@ -13,7 +13,7 @@
 
 > 👨🏻‍💻 Ethical Hacking & 🛡 Cyber Security are my favorite hobbies
 
-> Have interests in 📈📉📊 Data Science, <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang">, <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="rust">, 💻 Web Dev & 🤖 Linux SysAdmin
+> Have interests in 📈📉📊 Data Science, <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang">, <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="rust">, 💻 Web Dev & 🤖 Linux SysAdmin
 
 > <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam"> Playing video games
 
@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/plamen-ivanov-33a851226/" target="_blank"><img src="https://img.shields.io/badge/Plamen Ivanov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://discord.com/users/325912532143570944" target="_blank"><img src="https://img.shields.io/badge/PLAMEN-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://plamens-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My Portfolio-4d1c7c?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://plamens-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="mailto:plamen_iv@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/plamen_iv@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=F71A49&background=FFEFEC00&vCenter=true&lines=Tech+Stack:)](https://git.io/typing-svg)
@@ -44,7 +44,6 @@
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
 
@@ -53,7 +52,6 @@
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=24F7E0&background=FFEFEC00&vCenter=true&lines=Programming%2FScripting%2FMarkdown+languages)](https://git.io/typing-svg)
 
@@ -80,6 +78,11 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=9427F7&background=FFEFEC00&vCenter=true&lines=My+Blogs)](https://git.io/typing-svg)
+
+[![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/k1lgor)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://k1lgor.hashnode.dev/)
+
 ![Snake animation](https://github.com/k1lgor/k1lgor/blob/output/github-contribution-grid-snake.svg)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1lgor&theme=dracula)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k1lgor&theme=dracula)
@@ -88,5 +91,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k1lgor&theme=dracula)
 [![trophy](https://github-profile-trophy.vercel.app/?username=k1lgor&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k1lgor&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
+
 <a href="https://www.buymeacoffee.com/k1lgor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
