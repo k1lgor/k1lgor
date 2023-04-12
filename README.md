@@ -2,7 +2,7 @@
 
 <!-- # *Junior DevOps Engineer @ [Strypes](https://strypes.eu/)* -->
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=F72634&background=FFEFEC00&vCenter=true&lines=Junior+DevOps+Engineer+@+Strypes)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=F72634&background=FFEFEC00&vCenter=true&lines=Junior+DevOps+@+Strypes)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=58F736&background=FFEFEC00&vCenter=true&lines=About+me)](https://git.io/typing-svg)
 
