@@ -13,11 +13,11 @@
 
 > 🐧 Linux and shell scripting enthusiast
 
-> 👨🏻‍💻 Ethical Hacking & 🛡 Cyber Security are my favorite hobbies
+> Have interests in <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">, 
+> <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang">, 
+> <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="rust">, 💻 Web Dev
 
-> Have interests in 📈📉📊 Data Science, <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang">, <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="rust">, 💻 Web Dev & 🤖 Linux SysAdmin
-
-> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam"> Playing video games
+> Playing video games on <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam">
 
 > I use <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="20px" height="20px"> btw 
 
@@ -69,7 +69,8 @@
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+[//]: # (![Flask]&#40;https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&#41;)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=ff1bbc&background=FFEFEC00&vCenter=true&lines=CI/CD)](https://git.io/typing-svg)
 
@@ -93,5 +94,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k1lgor&theme=dracula)
 [![trophy](https://github-profile-trophy.vercel.app/?username=k1lgor&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k1lgor&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![codersrank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=k1lgor)
 
 <a href="https://www.buymeacoffee.com/k1lgor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
