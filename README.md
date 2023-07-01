@@ -90,7 +90,11 @@
 
 ![codersrank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=k1lgor)
 
-[//]: <> (<img align="left" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />)
+[![k1lgor's GitHub | Stats](https://stats.quine.sh/k1lgor/github?theme=dark)](https://quine.sh)
+
+[![k1lgor's GitHub | Languages Over Time](https://stats.quine.sh/k1lgor/languages-over-time?theme=dark)](https://quine.sh)
+
+[//]: <a> (<img align="left" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" />)
 <img align="left" src="https://api.daily.dev/devcards/c49a9b883d1245b1b61ead54015bcf1e.png?r=u70" width="200" alt="Plamen Ivanov's Dev Card"/>
 
 <a href="https://www.buymeacoffee.com/k1lgor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
