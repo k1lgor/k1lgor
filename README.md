@@ -70,7 +70,7 @@
 ![Jenkins](https://img.icons8.com/?size=48&id=39292&format=png)
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnWxVgB1zqGAY96EvLkOk9zp6tFpNTZKmya7f6XBOPoQ&s" width="48" /></code>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=9427F7&background=FFEFEC00&vCenter=true&lines=Containerization)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=9427F7&background=FFEFEC00&vCenter=true&lines=PaaS)](https://git.io/typing-svg)
 
 ![Docker](https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png)
 
