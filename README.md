@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=58F736&background=FFEFEC00&vCenter=true&lines=About+me)](https://git.io/typing-svg)
 
-- 🎓 I am an ambitious person, self-motivated and maybe workaholic
+- 🎓 I am an ambitious person, self-motivated, and maybe workaholic
 - 🐧 Linux and shell scripting enthusiast
 - Have interests in:
 
@@ -70,7 +70,7 @@
 ![Jenkins](https://img.icons8.com/?size=48&id=39292&format=png)
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnWxVgB1zqGAY96EvLkOk9zp6tFpNTZKmya7f6XBOPoQ&s" width="48" /></code>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=9427F7&background=FFEFEC00&vCenter=true&lines=PaaS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=9427F7&background=FFEFEC00&vCenter=true&lines=Containerization)](https://git.io/typing-svg)
 
 ![Docker](https://img.icons8.com/?size=48&id=cdYUlRaag9G9&format=png)
 
@@ -80,6 +80,7 @@
 [![Hashnode](https://img.icons8.com/?size=48&id=HnB8zGOh5xgd&format=png)](https://k1lgor.hashnode.dev/)
 
 ![Snake animation](https://github.com/k1lgor/k1lgor/blob/output/github-contribution-grid-snake.svg)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1lgor&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k1lgor&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=k1lgor&theme=dracula)
