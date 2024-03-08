@@ -16,8 +16,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=2435F7&background=FFEFEC00&vCenter=true&lines=Contacts)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png)](https://www.linkedin.com/in/plamen-ivanov-33a851226/)
-[![Discrod](https://img.icons8.com/?size=48&id=2mIgusGquJFz&format=png)](https://discord.com/users/325912532143570944)
-[![Portfolio](https://img.icons8.com/?size=48&id=111139&format=png)](https://plamens-portfolio.vercel.app/)
+[![Discord](https://img.icons8.com/?size=48&id=2mIgusGquJFz&format=png)](https://discord.com/users/325912532143570944)
+[![Portfolio](https://img.icons8.com/?size=48&id=111139&format=png)](https://k1lgor.github.io/hugo-portfolio/)
 [![Protonmail](https://img.icons8.com/?size=48&id=82aYkgJax8kO&format=png)](mailto:plamen_iv@protonmail.com)
 [![Gmail](https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png)](mailto:paco.iwanow@gmail.com)
 
@@ -62,6 +62,7 @@
 ![VueJS](https://img.icons8.com/?size=48&id=rY6agKizO9eb&format=png)
 ![Bootstrap](https://img.icons8.com/?size=48&id=84710&format=png)
 ![SASS](https://img.icons8.com/?size=48&id=QBqFNfPPB2Kx&format=png)
+![Django](https://img.icons8.com/?size=48&id=LPmcJ9e0FU7K&format=png)
 
 [//]: # (![Flask]&#40;https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&#41;)
 
