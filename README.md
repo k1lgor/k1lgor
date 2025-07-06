@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=DevOps%20@%20Strypes&reversal=false&textBg=false&fontColor=bf9b36&fontAlign=25&fontAlignY=88&descAlign=50&descAlignY=50&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=DevOps%20@%20ICT%20Strypes&reversal=false&textBg=false&fontColor=bf9b36&fontAlign=25&fontAlignY=88&descAlign=50&descAlignY=50&fontSize=50)
 
 <!-- # *Junior DevOps Engineer @ [Strypes](https://strypes.eu/)* -->
 
@@ -38,7 +38,7 @@ I roll with <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/5
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=F79924&background=FFEFEC00&vCenter=true&lines=🛠️+IDEs+n+Editors)](https://git.io/typing-svg) -->
 
-![VSCode](https://img.icons8.com/?size=48&id=0OQR1FYCuA9f&format=png) ![Sublime](https://img.icons8.com/?size=48&id=6RHskkZGRABM&format=png) ![PyCharm](https://img.icons8.com/?size=48&id=117121&format=png&color=000000) <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" alt="Cursor" width="48"> <img src="https://codeium.com/logo/windsurf_teal_logo.svg" alt="WindsurfAI" width="48"> <img src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/086fddbbaa5921887a4c8cdfdb5fb972_low_res_Trae_AI.png" alt="TRAE" width="48">
+![VSCode](https://img.icons8.com/?size=48&id=0OQR1FYCuA9f&format=png) ![Sublime](https://img.icons8.com/?size=48&id=6RHskkZGRABM&format=png) <img src="https://img.icons8.com/?size=100&id=DiGZkjCzyZXn&format=png&color=000000" alt="Cursor" width="48"> <img src="https://img.icons8.com/?size=100&id=d31ZyFhMRYFS&format=png&color=000000" alt="WindsurfAI" width="48"> <img src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/086fddbbaa5921887a4c8cdfdb5fb972_low_res_Trae_AI.png" alt="TRAE" width="48">
 
 ## 🔧 Keeping It in Sync
 
@@ -74,7 +74,7 @@ I roll with <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/5
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=FF6F61&background=FFEFEC00&vCenter=true&lines=🤖+AI+Arsenal)](https://git.io/typing-svg) -->
 
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png" alt="OpenAI" width="48"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" alt="Claude" width="48"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" alt="Ollama" width="48"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/grok.png" alt="Grok" width="48"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/qwen-color.png" alt="Qwen" width="48"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/deepseek-color.png" alt="DeepSeek" width="48">
+<img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" alt="OpenAI" width="48"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" alt="Claude" width="48"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ollama.png" alt="Ollama" width="48"> <img src="https://img.icons8.com/?size=100&id=SvMVhUPAeXkz&format=png&color=000000" alt="Grok" width="48"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/qwen-color.png" alt="Qwen" width="48"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/deepseek-color.png" alt="DeepSeek" width="48">
 
 ## 🔄 CI/CD & Container Craze
 
@@ -97,7 +97,5 @@ I roll with <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/5
 ![productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k1lgor&theme=dracula)
 [![trophy](https://github-profile-trophy.vercel.app/?username=k1lgor&row=1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=k1lgor&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<img align="left" src="https://api.daily.dev/devcards/c49a9b883d1245b1b61ead54015bcf1e.png?r=u70" width="200" alt="Plamen Ivanov's Dev Card"/>
 
 <a href="https://www.buymeacoffee.com/k1lgor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
