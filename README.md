@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=DevOps%20@%20ICT%20Strypes&reversal=false&textBg=false&fontColor=bf9b36&fontAlign=25&fontAlignY=88&descAlign=50&descAlignY=50&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=DevOps%20@%20ICT%20Strypes&reversal=false&textBg=false&fontColor=bf9b36&fontAlign=35&fontAlignY=88&descAlign=50&descAlignY=50&fontSize=50)
 
 <!-- # *Junior DevOps Engineer @ [Strypes](https://strypes.eu/)* -->
 
