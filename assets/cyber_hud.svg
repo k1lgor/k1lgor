@@ -1,0 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" width="100%" height="auto">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;900&amp;display=swap');
+
+      .bg { fill: #050a10; }
+      .grid {
+        stroke: #0a1f33;
+        stroke-width: 1;
+      }
+      .hud-text {
+        font-family: 'Share Tech Mono', monospace;
+        fill: #00ffcc;
+        font-size: 14px;
+        letter-spacing: 1.5px;
+      }
+      .hud-text-alert {
+        font-family: 'Share Tech Mono', monospace;
+        fill: #ff0055;
+        font-size: 14px;
+        letter-spacing: 1px;
+      }
+      .hud-title {
+        font-family: 'Orbitron', sans-serif;
+        fill: #ffffff;
+        font-size: 42px;
+        font-weight: 900;
+        text-shadow: 0 0 15px #00ffcc, 0 0 30px #00ffcc;
+      }
+
+      .glitch {
+        animation: glitch-anim 3s infinite linear alternate-reverse;
+      }
+
+      .pulse {
+        animation: pulse-anim 2s infinite alternate;
+      }
+
+      .rotate-slow {
+        transform-origin: 500px 200px;
+        animation: rot 20s linear infinite;
+      }
+
+      .rotate-fast-reverse {
+        transform-origin: 500px 200px;
+        animation: rot-rev 10s linear infinite;
+      }
+
+      .scanline {
+        fill: url(#scan-gradient);
+        opacity: 0.15;
+        animation: scan 4s linear infinite;
+      }
+
+      @keyframes rot {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+
+      @keyframes rot-rev {
+        0% { transform: rotate(360deg); }
+        100% { transform: rotate(0deg); }
+      }
+
+      @keyframes scan {
+        0% { transform: translateY(-400px); }
+        100% { transform: translateY(800px); }
+      }
+
+      @keyframes pulse-anim {
+        0% { opacity: 0.4; }
+        100% { opacity: 1; transform: scale(1.05); }
+      }
+
+      @keyframes glitch-anim {
+        0% { transform: translate(0) }
+        5% { transform: translate(-3px, 3px) }
+        10% { transform: translate(-3px, -3px) }
+        15% { transform: translate(3px, 3px) }
+        20% { transform: translate(3px, -3px) }
+        25% { transform: translate(0) }
+        100% { transform: translate(0) }
+      }
+
+      .st1 { fill:none; stroke:#00ffcc; stroke-width:3; stroke-linecap:round; }
+      .st2 { fill:none; stroke:#ff0055; stroke-width:1; stroke-dasharray: 4 4; }
+      .st3 { fill:none; stroke:#00ffcc; stroke-width:1; opacity:0.3; }
+    </style>
+
+    <linearGradient id="scan-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="transparent" />
+      <stop offset="50%" stop-color="#00ffcc" />
+      <stop offset="100%" stop-color="transparent" />
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00ffcc" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="transparent" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="typing-clip">
+      <rect x="0" y="-30" width="0" height="40">
+        <animate attributeName="width" values="0; 800" dur="4s" fill="freeze" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="400" class="bg" />
+
+  <!-- Grid -->
+  <pattern id="gridPattern" width="30" height="30" patternUnits="userSpaceOnUse">
+    <path d="M 30 0 L 0 0 0 30" fill="none" class="grid"/>
+  </pattern>
+  <rect width="1000" height="400" fill="url(#gridPattern)" />
+
+  <!-- Center HUD Rings -->
+  <g class="pulse">
+    <circle cx="500" cy="200" r="160" fill="url(#glow)" />
+  </g>
+
+  <circle cx="500" cy="200" r="130" class="st1 rotate-slow" stroke-dasharray="120 30 60 20" />
+  <circle cx="500" cy="200" r="150" class="st1 rotate-fast-reverse" stroke-dasharray="30 50 15 10" stroke-opacity="0.6" />
+  <circle cx="500" cy="200" r="90" class="st2 rotate-slow" />
+
+  <!-- Outer complex rings -->
+  <path d="M 320 200 A 180 180 0 0 1 680 200" class="st3 rotate-slow" />
+  <path d="M 680 200 A 180 180 0 0 1 320 200" class="st3 rotate-fast-reverse" />
+
+  <!-- Central Target / Graphic -->
+  <path d="M 500 90 L 500 110 M 500 290 L 500 310 M 390 200 L 410 200 M 590 200 L 610 200" class="st1" />
+
+  <text x="500" y="212" text-anchor="middle" class="hud-title glitch">k1lgor</text>
+
+  <!-- Left Side Data -->
+  <g transform="translate(60, 60)">
+    <path d="M 0 0 L 60 0 L 80 20 L 250 20" fill="none" stroke="#00ffcc" stroke-width="2" />
+    <circle cx="0" cy="0" r="4" fill="#00ffcc" />
+    <text x="0" y="55" class="hud-text">SYS.STATUS  : [ ONLINE ]</text>
+    <text x="0" y="85" class="hud-text">UPTIME      : [ 99.999% ]</text>
+    <text x="0" y="115" class="hud-text">OS_PREF     : [ ARCH_LINUX ]</text>
+    <text x="0" y="145" class="hud-text">LOCATION    : [ EARTH_NODE_BG ]</text>
+    <rect x="0" y="170" width="200" height="4" fill="#00ffcc" opacity="0.3" />
+    <rect x="0" y="170" width="160" height="4" fill="#00ffcc">
+      <animate attributeName="width" values="100; 160; 140; 180; 160" dur="3s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <!-- Right Side Data -->
+  <g transform="translate(690, 60)">
+    <path d="M 250 0 L 190 0 L 170 20 L 0 20" fill="none" stroke="#ff0055" stroke-width="2" />
+    <circle cx="250" cy="0" r="4" fill="#ff0055" />
+    <text x="0" y="55" class="hud-text-alert">ROLE : DEVOPS ENGINEER</text>
+    <text x="0" y="85" class="hud-text">DEPT : AUTOMATION HEXCRAFT</text>
+    <text x="0" y="115" class="hud-text">ORG  : ICT STRYPES</text>
+    <text x="0" y="145" class="hud-text" fill="#ff0055">ID   : PRVX-9021</text>
+
+    <!-- Moving blocks -->
+    <rect x="0" y="170" width="30" height="4" fill="#ff0055">
+      <animate attributeName="x" values="0; 220; 0" dur="1.5s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <!-- Bottom Data Stream -->
+  <g transform="translate(50, 360)">
+    <path d="M 0 0 L 900 0" class="st2" />
+    <text x="0" y="-10" class="hud-text" clip-path="url(#typing-clip)">> INITIALIZING DEPLOYMENT SEQUENCES... AUTOMATION HEXCRAFT INJECTED... PIPELINE ARMED.</text>
+  </g>
+
+  <rect x="0" y="-400" width="1000" height="200" class="scanline" />
+</svg>
